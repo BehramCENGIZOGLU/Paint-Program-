@@ -1,0 +1,20 @@
+C:\Users\mhmts\source\repos\PaintProgram\PaintProgram\bin\Debug\PaintProgram.exe.config
+C:\Users\mhmts\source\repos\PaintProgram\PaintProgram\bin\Debug\PaintProgram.exe
+C:\Users\mhmts\source\repos\PaintProgram\PaintProgram\bin\Debug\PaintProgram.pdb
+C:\Users\mhmts\source\repos\PaintProgram\PaintProgram\obj\Debug\PaintProgram.csprojAssemblyReference.cache
+C:\Users\mhmts\source\repos\PaintProgram\PaintProgram\obj\Debug\PaintProgram.Form1.resources
+C:\Users\mhmts\source\repos\PaintProgram\PaintProgram\obj\Debug\PaintProgram.Properties.Resources.resources
+C:\Users\mhmts\source\repos\PaintProgram\PaintProgram\obj\Debug\PaintProgram.csproj.GenerateResource.cache
+C:\Users\mhmts\source\repos\PaintProgram\PaintProgram\obj\Debug\PaintProgram.csproj.CoreCompileInputs.cache
+C:\Users\mhmts\source\repos\PaintProgram\PaintProgram\obj\Debug\PaintProgram.exe
+C:\Users\mhmts\source\repos\PaintProgram\PaintProgram\obj\Debug\PaintProgram.pdb
+E:\derslerim için\hoca nın uygulamaları\PaintProgram\PaintProgram\bin\Debug\PaintProgram.exe.config
+E:\derslerim için\hoca nın uygulamaları\PaintProgram\PaintProgram\bin\Debug\PaintProgram.exe
+E:\derslerim için\hoca nın uygulamaları\PaintProgram\PaintProgram\bin\Debug\PaintProgram.pdb
+E:\derslerim için\hoca nın uygulamaları\PaintProgram\PaintProgram\obj\Debug\PaintProgram.csprojAssemblyReference.cache
+E:\derslerim için\hoca nın uygulamaları\PaintProgram\PaintProgram\obj\Debug\PaintProgram.Form1.resources
+E:\derslerim için\hoca nın uygulamaları\PaintProgram\PaintProgram\obj\Debug\PaintProgram.Properties.Resources.resources
+E:\derslerim için\hoca nın uygulamaları\PaintProgram\PaintProgram\obj\Debug\PaintProgram.csproj.GenerateResource.cache
+E:\derslerim için\hoca nın uygulamaları\PaintProgram\PaintProgram\obj\Debug\PaintProgram.csproj.CoreCompileInputs.cache
+E:\derslerim için\hoca nın uygulamaları\PaintProgram\PaintProgram\obj\Debug\PaintProgram.exe
+E:\derslerim için\hoca nın uygulamaları\PaintProgram\PaintProgram\obj\Debug\PaintProgram.pdb
